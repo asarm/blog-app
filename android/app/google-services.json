@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "816782882443",
+    "firebase_url": "https://ardablogapp.firebaseio.com",
+    "project_id": "ardablogapp",
+    "storage_bucket": "ardablogapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816782882443:android:5237dbac7c92cd0e1e468e",
+        "android_client_info": {
+          "package_name": "com.ardaasar.blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816782882443-adrklphj3rifl5qdg6so7rbv59l28sdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEvw_WqCaaqCwWHaSYVrC4cCxIdYPEVVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816782882443-adrklphj3rifl5qdg6so7rbv59l28sdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
